@@ -9,5 +9,4 @@ Integrantes
 - Ian Jeremy Períz Velazco
 - Jeanpaul Martín Ascencio Fasabi
 - Andrea Alejandra Perez Matute
-- Ian Jeremy Períz Velazco
 - Manuel Dario Cruzado Canelo
